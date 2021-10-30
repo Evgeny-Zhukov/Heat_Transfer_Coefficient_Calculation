@@ -1,0 +1,16 @@
+C:\Users\ezvge\source\repos\Rabota_1\Rabota_1\bin\Debug\net5.0\Rabota_1.exe
+C:\Users\ezvge\source\repos\Rabota_1\Rabota_1\bin\Debug\net5.0\Rabota_1.deps.json
+C:\Users\ezvge\source\repos\Rabota_1\Rabota_1\bin\Debug\net5.0\Rabota_1.runtimeconfig.json
+C:\Users\ezvge\source\repos\Rabota_1\Rabota_1\bin\Debug\net5.0\Rabota_1.runtimeconfig.dev.json
+C:\Users\ezvge\source\repos\Rabota_1\Rabota_1\bin\Debug\net5.0\Rabota_1.dll
+C:\Users\ezvge\source\repos\Rabota_1\Rabota_1\bin\Debug\net5.0\ref\Rabota_1.dll
+C:\Users\ezvge\source\repos\Rabota_1\Rabota_1\bin\Debug\net5.0\Rabota_1.pdb
+C:\Users\ezvge\source\repos\Rabota_1\Rabota_1\obj\Debug\net5.0\Rabota_1.csproj.AssemblyReference.cache
+C:\Users\ezvge\source\repos\Rabota_1\Rabota_1\obj\Debug\net5.0\Rabota_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezvge\source\repos\Rabota_1\Rabota_1\obj\Debug\net5.0\Rabota_1.AssemblyInfoInputs.cache
+C:\Users\ezvge\source\repos\Rabota_1\Rabota_1\obj\Debug\net5.0\Rabota_1.AssemblyInfo.cs
+C:\Users\ezvge\source\repos\Rabota_1\Rabota_1\obj\Debug\net5.0\Rabota_1.csproj.CoreCompileInputs.cache
+C:\Users\ezvge\source\repos\Rabota_1\Rabota_1\obj\Debug\net5.0\Rabota_1.dll
+C:\Users\ezvge\source\repos\Rabota_1\Rabota_1\obj\Debug\net5.0\ref\Rabota_1.dll
+C:\Users\ezvge\source\repos\Rabota_1\Rabota_1\obj\Debug\net5.0\Rabota_1.pdb
+C:\Users\ezvge\source\repos\Rabota_1\Rabota_1\obj\Debug\net5.0\Rabota_1.genruntimeconfig.cache
